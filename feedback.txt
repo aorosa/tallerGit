@@ -1,0 +1,3 @@
+Me ha parecido super bueno para coger un poco de prácticas de github, ya que hay trabajos en grupos y hay veces que para pasarnos los archivos es un poco emborroso ya que el main de git se ensucia mucho y queda feo, y antes de presentarlo hay que limpiarlo y subir nuevamente todo, entonces de esta manera se sube exactamente lo bueno que se quiere. Igualmente saber solventar problemas de confictos al subir archivos iguales.
+Daros las gracias Pablo y Delfina por ayudarnos y comprender todo y a solventar todos los problemas.
+Muchas Gracias :D
